@@ -13,5 +13,11 @@
     "eslint": "^8.44.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.27.5"
+  },
+  "dependencies": {
+    "commander": "^11.0.0"
+  },
+  "bin": {
+    "brain-games": "bin/brain-games.js"
   }
 }
