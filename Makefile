@@ -4,5 +4,5 @@ lint:
 	npx eslint .
 publish:
 	npm publish --dry-run
-pageLoader:
-	node bin/pageLoader.js
+page-loader:
+	node bin/page-loader.js
